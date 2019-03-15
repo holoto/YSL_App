@@ -1,0 +1,9 @@
+
+Tsquid:S2696 "6Make the enclosing method "static" or remove this set.(ıú¢8›ŒŞİ—-
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(âÅŒé8„Ó·İ—-
+qsquid:S00116"RRename this field "LOG_TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÎ¶•8ü³³—-
+_squid:UnusedPrivateMethod@"3Remove this unused private "initLeakCanary" method.(é–Î8„Ó·İ—-
+9squid:S3626D"Remove this redundant jump.(ûÁİ…8ü³³—-
+nsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¢»ôÍıÿÿÿÿ8ü³³—-
+Isquid:S1068"+Remove this unused "LOG_TAG" private field.(ˆÎ¶•8¬õÄ³—-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ªäà¡ÿÿÿÿÿ8Ïİ¬Ş—-

@@ -1,0 +1,7 @@
+
+€squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "yslOneCall".(¾—»8®‚ÇÑ—-
+asquid:UselessImportCheck"6Remove this unused import 'com.ai.ysl.jsonF.YslRepos'.(˜ÇÏ8É‘§Ğ—-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œíà¦şÿÿÿÿ
+€squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "yslOneCall".(ß‚èÕ8èÆ¬Ğ—-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Çô¼Ü—-
+]squid:S1118":Add a private constructor to hide the implicit public one.(Œíà¦şÿÿÿÿ8ó‚“Ğ—-

@@ -1,0 +1,18 @@
+
+esquid:UselessImportCheck	"5Remove this unused import 'android.view.MotionEvent'.(˜šËŞúÿÿÿÿ8“Á‹â—-
+ksquid:UselessImportCheck"@Remove this unused import 'io.reactivex.disposables.Disposable'.(¶µ¾®8€½™Ù—-
+csquid:UselessImportCheck"8Remove this unused import 'io.reactivex.SingleObserver'.(ÌÑ¿â8€½™Ù—-
+lsquid:S11929"NDefine a constant instead of duplicating this literal "onResponse: " 11 times.(şÓ¯8Ë‰œÓ—-
+Zsquid:UselessImportCheck"/Remove this unused import 'android.os.Handler'.(ûÛ’¡8í©Œâ—-
+hsquid:UselessImportCheck"=Remove this unused import 'android.support.v7.app.ActionBar'.(¬­çô8“Á‹â—-
+]squid:UselessImportCheck"2Remove this unused import 'io.objectbox.BoxStore'.(œÉê8ø¡ÏĞ—-
+Fsquid:S1185x"(Remove this method to simply inherit it.(˜óóÁ8»Šâ—-
+jsquid:S1192D"LDefine a constant instead of duplicating this literal "onFailure: " 3 times.( ¾…8Ë‰œÓ—-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(Úê‘ö8Ú­¶ß—-
+jsquid:S11929"LDefine a constant instead of duplicating this literal "onResponse" 11 times.(şÓ¯8Ë‰œÓ—-
+hsquid:S1192D"JDefine a constant instead of duplicating this literal "onFailure" 3 times.( ¾…8Ë‰œÓ—-
+hsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(¿¥¿8Û´ß—-
+¤squid:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂåŸæÿÿÿÿÿ8¦ğÕ—-
+lsquid:UselessImportCheck"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8í©Œâ—-
+^squid:UselessImportCheck
+".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8•˜¶â—-
